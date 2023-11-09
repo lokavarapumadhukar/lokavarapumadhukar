@@ -2,7 +2,9 @@
 
 ** Data Analyst **
 
-I am currently working at Salesforce as a technical support engineer and looking to transition into data science work. I am a machine learning enthusiast with interest in both mathematics and cryptography. I also write on Medium at https://medium.com/@madhul413
+Data Analyst skilled in python, SQL, TensorFlow 
+
+I also write technical articles on Medium at https://medium.com/@madhul413
 
 
 ### 🧰 Languages and Tools
