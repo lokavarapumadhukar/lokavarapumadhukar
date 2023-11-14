@@ -2,7 +2,7 @@
 
 ** Data Analyst **
 
-Data Analyst skilled in python, SQL, TensorFlow 
+Data Analyst skilled in Python, SQL, TensorFlow 
 
 I also write technical articles on Medium at https://medium.com/@madhul413
 
