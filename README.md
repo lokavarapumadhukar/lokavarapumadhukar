@@ -1,8 +1,8 @@
 # Madhukar Lokavarapu
 
-** Data Analyst **
+** Software Engineer **
 
-Data Analyst skilled in Python, SQL, TensorFlow 
+Software Engineer skilled in Python, SQL, TensorFlow 
 
 I also write technical articles on Medium at https://medium.com/@madhul413
 
